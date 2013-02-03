@@ -1,3 +1,8 @@
-simplexpre
-==========
-a simple CIDR ip parser. 
+##Introduction
+
+    a simple CIDR ip parser. 
+
+##Get start
+```java
+System.out.println("test md");
+```
